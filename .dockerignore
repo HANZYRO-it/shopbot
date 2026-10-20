@@ -1,0 +1,10 @@
+.env
+.git
+data
+backups
+venv
+.venv
+__pycache__
+*.pyc
+deploy
+README.md
